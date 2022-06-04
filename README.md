@@ -2,7 +2,7 @@
 P-CHY is a theme for Aliucord.
 
 ## Screenshots
-![image](https://media.discordapp.net/attachments/680107640692408380/982628596730454066/1654347294221.png?width=1205&height=678)
+![image](https://media.discordapp.net/attachments/680107640692408380/982692530040737852/1654362547533.png)
 
 ## Installation
 #### You need the Aliucord themer plugin for this.
