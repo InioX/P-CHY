@@ -3,7 +3,7 @@
         "author": "ini#9046",
         "name": "P-CHY",
         "version": "1.0.0",
-        "updater": "https://raw.githubusercontent.com/InioX/P-CHY/main/P-CHY.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/InioX\/P-CHY\/main\/P-CHY.json"
     },
     "background": {},
     "fonts": {
@@ -34,7 +34,9 @@
         "primary_dark_660": -13226197,
         "primary_dark_400": -20862,
         "uikit_settings_item_text_color_light": -20862,
-        "primary_dark_330": -20862
+        "primary_dark_330": -20862,
+        "primary_700": -13226197,
+        "abc_tint_switch_track": -20862
     },
     "drawable_tints": {},
     "raws": {}
