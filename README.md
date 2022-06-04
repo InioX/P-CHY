@@ -9,7 +9,7 @@ P-CHY is a theme for Aliucord.
 + 1\. Install the plugin from [here](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer)
 + 2\. Download `P-CHY.json`
 + 3\. Move the `P-CHY.json` file to `/Aliucord/themes`
-+ 4\. - You have to enable custom fonts, In Aliucord go to `Settings -> Plugins -> Themer -> Enable Custom Fonts` and set it to on ![image](https://cdn.discordapp.com/attachments/680107640692408380/982649396766343178/Screenshot_20220604-161643_Aliucord.png)
++ 4\. You have to enable custom fonts, In Aliucord go to `Settings -> Plugins -> Themer -> Enable Custom Fonts` and set it to on ![image](https://cdn.discordapp.com/attachments/680107640692408380/982649396766343178/Screenshot_20220604-161643_Aliucord.png)
 
 ## Common problems 
 1. Theme not applying?
