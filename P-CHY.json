@@ -2,8 +2,7 @@
     "manifest": {
         "author": "ini#9046",
         "name": "P-CHY",
-        "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/InioX\/P-CHY\/main\/P-CHY.json"
+        "version": "1.0.0"
     },
     "background": {},
     "fonts": {
