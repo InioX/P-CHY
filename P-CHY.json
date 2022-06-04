@@ -1,0 +1,40 @@
+{
+    "manifest": {
+        "author": "ini#9046",
+        "name": "P-CHY",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/ElectricEasel\/shindaiwacordless\/tree\/master\/fonts\/HelveticaNeue"
+    },
+    "simple_colors": {
+        "background_secondary": -15660795,
+        "background": -14607849,
+        "accent": -20862,
+        "mention_highlight": 822062722,
+        "input_background": -14607849,
+        "active_channel": -13226197
+    },
+    "colors": {
+        "brand_new_360": -20862,
+        "brand_new_560": -1442861438,
+        "primary_dark_100": -20862,
+        "status_grey_200": -20862,
+        "primary_600": -20862,
+        "primary_dark_800": -14607849,
+        "primary_dark_300": -20862,
+        "primary_700_alpha_60": -20862,
+        "uikit_btn_bg_color_selector_brand": -20862,
+        "link_500": -20862,
+        "primary_630": -13226197,
+        "uikit_btn_bg_color_selector_green": -20862,
+        "primary_dark_360": -20862,
+        "primary_dark_660": -13226197,
+        "primary_dark_400": -20862,
+        "uikit_settings_item_text_color_light": -20862,
+        "primary_dark_330": -20862
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
