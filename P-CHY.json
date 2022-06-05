@@ -2,8 +2,9 @@
     "manifest": {
         "author": "ini#9046",
         "name": "P-CHY",
-        "version": "1.0.0",
-        "updater": "https://raw.githubusercontent.com/InioX/P-CHY/main/P-CHY.json"},
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/InioX\/P-CHY\/main\/P-CHY.json"
+    },
     "background": {},
     "fonts": {
         "*": "https:\/\/github.com\/ElectricEasel\/shindaiwacordless\/tree\/master\/fonts\/HelveticaNeue"
@@ -35,7 +36,8 @@
         "uikit_settings_item_text_color_light": -20862,
         "primary_dark_330": -20862,
         "primary_700": -13226197,
-        "abc_tint_switch_track": -20862
+        "abc_tint_switch_track": -20862,
+        "status_green_500_alpha_20": -20862
     },
     "drawable_tints": {},
     "raws": {}
